@@ -1,0 +1,5 @@
+{
+  "name": "Lịch & Tử Vi AI",
+  "description": "An AI-powered Vietnamese calendar and astrology web application. It provides Solar/Lunar calendar details, daily horoscopes, Bazi (Tử Vi) analysis, and I-Ching divination using Gemini AI.",
+  "requestFramePermissions": []
+}
